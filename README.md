@@ -1,2 +1,1 @@
-# Guides
-Guides designed by members for members!
+# List of Guides
