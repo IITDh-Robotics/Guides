@@ -19,4 +19,5 @@ This implies that you would not need to divide your resources to run Ubuntu. Thi
 
 ### Available on Windows
 Simply means you can use this method within windows.
+
 Note: Docker is available in windows, however the GUI applications will not work!
